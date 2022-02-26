@@ -23,8 +23,8 @@ This analysis to find out the temperature trends in Oahu, Hawai. In order to det
  Both June and December months are favorable for surfing and ice cream shops in Oahu. 
  ## Two additional data points which can be measured are:
 1. Precipitation data in year. Not only temparature, pricipitation also plays a role in surf as it is an out-door activity.
-So, analyzing the pricipitaion data will help to determine the favorable month for surfing.
-![year_precipitation)](/Resources/year_precipitation.png)
-2.Tempreture analysis for the year, which will help us to predict temperature for upcoming days.
-![year_tobs)](/Resources/year_tobs.png)
-![tobs_map)](/Resources/tobs_map.png)
+So, analyzing the pricipitaion data will help to determine the favorable month for surfing.Below table shows precipitation along with June and December tempreture.
+![Temp_Precip_June)](/Resources/surfsups_june-3.png)
+![Temp_Precip_June)](/Resources/surfsups_dece-3.png)
+
+2. Wind also aplay a major role in surfing. So, If we have a wind data avalaible, then it will be helpful to pridict the favorable month for surfing very accurately and relaibly.
